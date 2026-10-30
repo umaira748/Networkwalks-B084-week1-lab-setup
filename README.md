@@ -7,9 +7,19 @@
   <img src="https://img.shields.io/badge/Virtualization-VirtualBox-blue?style=for-the-badge&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/Domain-Cybersecurity-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Purpose-Educational-success?style=for-the-badge" />
+  
+  ***Lab Environment***
+
+  
+</p>
+<p align="center">
+  <img src="Screenshot_2026-10-30_11_10_09.png"
+       alt="Kali Linux Lab Setup"
+       width="900">
 </p>
 
 ---
+
 
 ##  Project Overview
 
@@ -19,19 +29,7 @@ The objective is to establish a controlled virtual environment for hands-on cybe
 
 This lab serves as a foundation for practical cybersecurity exercises and continuous technical development.
 
-##  Lab Environment
 
-The following screenshot presents my Kali Linux virtual machine running inside Oracle VirtualBox.
-
-<p align="center">
-  <img src="screenshots/kali-lab-setup.png" width="900" alt="Kali Linux running in Oracle VirtualBox" />
-</p>
-
-<p align="center">
-  <i>Kali Linux — Virtual Cybersecurity Lab Environment</i>
-</p>
-
----
 
 ##  Technologies & Tools
 
